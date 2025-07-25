@@ -8,7 +8,7 @@ public class EdademoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EdademoApplication.class, args);
-		System.out.println("i = " );
+		//System.out.println("i = " );
 	}
 
 }
